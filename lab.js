@@ -200,4 +200,12 @@ while(z > 0){
   z--
 }
 */
+
+while(z > 0){
+  for(let i = z; i >= 1; i--){
+    console.log(i)
+  }
+  z--
+}
+
 //CODE HERE
